@@ -1,0 +1,39 @@
+# Исполняемые файлы
+helloworld
+*.out
+*.exe
+*.o
+
+# Папки сборки
+build/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/# Скомпилированные бинарники
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dSYM/
+
+# Папки сборки (CMake, Make, IDE)
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Настройки IDE и редакторов
+.vscode/
+.vs/
+.idea/
+*.swp
+*.suo
+*.user
+
+# Файлы отладки
+*.pdb
+*.ilk
