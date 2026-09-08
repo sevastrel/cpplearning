@@ -24,6 +24,7 @@ Makefile
 *.pdb
 *.suo
 *.swp
+*.txt
 *.user
 .vs/
 .vscode/
